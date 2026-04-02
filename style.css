@@ -1,2 +1,9 @@
 /*style goes here*/
 
+ul{	
+list-style-type: none;
+}
+
+#portrait{
+	width: 30%;
+}
